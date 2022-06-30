@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-direction: column;
+  color: black;
+  font-family: "Open Sans", sans-serif;
+  margin: 0 auto;
+}

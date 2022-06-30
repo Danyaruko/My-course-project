@@ -1,0 +1,38 @@
+.tank {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.tank__info {
+  border: 2px solid purple;
+
+  padding: 1rem;
+  background-color: plum;
+}
+
+.switch {
+  cursor: pointer;
+
+  color: white;
+  background-color: purple;
+
+  font-size: 0.875rem;
+  font-weight: 800;
+  line-height: 1.1875rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+
+  border: none;
+  border-radius: 0.75rem;
+
+  width: 280px;
+
+  padding: 1.25em 3.5em;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  transition: 0.3s ease-out;
+}
+
+.switch:hover {
+  box-shadow: 0 0 10px 0 purple;
+}
