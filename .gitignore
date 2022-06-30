@@ -115,6 +115,7 @@ celerybeat.pid
 .env
 .venv
 env/
+Backend/course_project/
 venv/
 ENV/
 env.bak/
